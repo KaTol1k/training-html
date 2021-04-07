@@ -1,0 +1,17 @@
+/*
+{
+    margin: 0;
+    padding: 0;
+}
+*/
+.logo {
+    color: blue;
+    font-size: 48px;
+}
+
+img {
+    max-width: 400px;
+}
+#home {
+    margin-top: 100px;
+}
